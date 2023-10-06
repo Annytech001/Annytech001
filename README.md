@@ -2,7 +2,7 @@
 I am Glory Bassey <br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 2023)<br>👯 I’m looking forward  to collaborate on Great and innovative projects,  hackathons, and remote job opportunities.<br>🌱 I’m currently learning Python, Javascript, C programming Language<br>💞️ I'm looking forward to solve the world's biggest problem <br>📫 You can reach me via email at godlybassey101@gmail.com<br>#DoingHardThings <br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me :
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/glorybassey1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/glory-bassey-6b2228211/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/glozanta001) 
 
 # 💻 Tech Stack:
