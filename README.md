@@ -2,7 +2,7 @@
 I am Glory Bassey
 <br>Software Engineer - Specialize in Frontend development 
 <br>Here Passion meets Innovation 
-<br>ALX Alumna Cohort 11 <br>👯 I’m looking forward  to collaborate on Great and innovative projects,  hackathons, and remote job opportunities.<br>🌱 I'm looking forward to solve the world's biggest problem <br>📫 You can reach me via email at godlybassey101@gmail.com<br>#DoingHardThings <br>
+<br>ALX Alumna Cohort 11.<br>🌱 I'm looking forward to solve the world's biggest problem <br>📫 You can reach me via email at godlybassey101@gmail.com<br>#DoingHardThings <br>
 
 
 ## 🌐 Connect with me :
